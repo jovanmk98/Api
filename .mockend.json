@@ -1,1 +1,12 @@
-
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Porsche"
+    },
+    {
+      "id": 2,
+      "name": "Ford"
+    }
+  ]
+}
